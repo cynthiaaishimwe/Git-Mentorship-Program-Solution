@@ -3,7 +3,7 @@
 
 
 
-``student@student-ThinkPad-X250:~/Documents/git-practise$ git branch
+`student@student-ThinkPad-X250:~/Documents/git-practise$ git branch
 student@student-ThinkPad-X250:~/Documents/git-practise$ git init
 Initialized empty Git repository in /home/student/Documents/git-practise/.git/
 student@student-ThinkPad-X250:~/Documents/git-practise$ git add .
@@ -59,6 +59,6 @@ Deleted branch test (was 5322552).
 student@student-ThinkPad-X250:~/Documents/git-practise$ 
  *  History restored 
 
-``
+`
 
 
